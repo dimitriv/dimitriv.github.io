@@ -1,0 +1,76 @@
+.navbar{
+  background:#F97300;
+  margin: 4em 32em;
+  position: relative;
+}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+.nav-link{ margin-right: 1em !important;}
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+.navbar-collapse{ justify-content: flex-end;}
+.navbar-toggler{  background:#fff !important;}
+
+
+.about{
+ margin: 4em 32em;
+ padding: 1em;
+ position: relative;
+}
+.about h1{
+ color:#F97300;
+ margin: 2em;
+}
+.about img{
+ /* height: 100%; */
+ width: 100%;
+    /* border-radius: 50% */
+}
+.about span{
+ display: block;
+ color: #888;
+ position: absolute;
+ left: 115px;
+}
+.about .desc{
+ padding: 1em;
+ border-left:4px solid #10828C;
+}
+
+.about .full-desc{
+ padding: 1em;
+ border-left:4px;
+}
+
+
+.about .desc h3{
+ color: #10828C;
+}
+.about .desc p{
+ /* line-height:2; */
+ /* color:#888; */
+
+}
+
+.about .full-desc h3{
+ color: #10828C;
+}
+.about .fulldesc p{
+ /* line-height:2; */
+ color:#888;
+}
+
+.about .full-desc h5{
+ color: #10828C;
+}
+
+.btn-info {
+    padding: 0.0% 0;
+    /* define values in pixels / Percentage or em. whatever suits
+       your requirements */
+}
+
+.btn-danger {
+    padding: 0.0% 0;
+    /* define values in pixels / Percentage or em. whatever suits
+       your requirements */
+}
